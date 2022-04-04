@@ -11,3 +11,6 @@ In this notebook, we numerically integrate the Earth's orbit around the sun for 
 
 ## Argon Diffusion
 In this notebook, we employ a Monte Carlo model to simulate the diffusion of an argon atom in argon gas.  We plot the position of the atom over time and compute the kinetic energy distribution of the atom.  To improve computation times, we repeat the simulations using the open-source JIT compiler [Numba](https://numba.pydata.org), which translates a subset of Python and [NumPy](https://numpy.org) code into fast machine code.  This improves computation time roughly 50-fold.
+
+## Planetary Dynamics
+Here, we employ a simple MATLAB model to numerically solve the [n-body problem](https://en.wikipedia.org/wiki/N-body_problem) in two and three dimensions.
