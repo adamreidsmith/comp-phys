@@ -14,3 +14,14 @@ In this notebook, we employ a Monte Carlo model to simulate the diffusion of an 
 
 ## Planetary Dynamics
 Here, we employ a simple MATLAB model to numerically solve the [n-body problem](https://en.wikipedia.org/wiki/N-body_problem) in two and three dimensions.
+
+# Technologies Used
+ * [Jupyter Notebook](https:/jupyter.org)
+ * [MATLAB](https://matlab.mathworks.com)
+ * [NumPy](https://numpy.org)
+ * [Numba](https://numba.pydata.org)
+ * [Matplotlib](https://matplotlib.org)
+ * [SciPy](https://scipy.org)
+
+# License
+[MIT](/LICENSE)
